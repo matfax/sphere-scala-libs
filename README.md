@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/matfax/sphere-scala-libs.svg)](https://jitpack.io/#matfax/sphere-scala-libs)
+
 # sphere-json
 
 Typeclasses & derived instances on top of [json4s](http://json4s.org/).
